@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "title": "Clean water for children",
+    "picture": "https://picsum.photos/200/300",
+    "category": "health",
+    "category_bg": "#AEC8FF",
+    "card_bg": "#D9E5FF",
+    "color": "#0052FF",
+    "price": "290.00",
+    "description": "Our Clean Water for Children campaign tackles a critical issue: ensuring clean and safe drinking water for children who currently lack access to this basic necessity. In many parts of the world, millions of children face the daily threat of waterborne diseases and compromised health due to unclean water sources. \n \n Why it Matters: \n Clean water isn't just about survival; it's a fundamental human right. Children denied access to clean water suffer not only physically but also academically, as water-related illnesses disrupt their education. \n \n Our Mission:\n We are dedicated to making a meaningful change. Our mission includes: - Developing Reliable Water Sources: We construct wells and deploy water purification systems to provide consistent access to clean water. - Promoting Education: We empower communities through hygiene and water education, ensuring they understand the importance of clean water. - Long-Term Sustainability: We work towards self-sustaining systems, guaranteeing access to clean water for future generations. How You Can Help: Join us by donating, volunteering, or spreading awareness. Together, we can transform the lives of children in need by granting them the simple yet life-changing gift of clean water."
+  },
+  {
+    "id": 2,
+    "title": "Good Education",
+    "picture": "https://picsum.photos/200/300",
+    "category": "education",
+    "category_bg": "#FFC3C5",
+    "card_bg": "#FFE3E4",
+    "color": "#FF444A",
+    "price": "350.00",
+    "description": "Good education is the cornerstone of personal growth and societal progress. It equips individuals with knowledge, critical thinking skills, and opportunities for a brighter future. Education transcends borders, breaks down barriers, and empowers individuals to shape their destinies. \n \n Key Benefits: \n A solid education unlocks doors to opportunities, bridging gaps in inequality, and promoting innovation. It nurtures responsible citizens who contribute to their communities and drive global progress. Nations with robust education systems experience higher economic growth and improved quality of life. \n \n Our Commitment: \n We are dedicated to advancing good education for all. Our mission is to ensure equitable access to quality education. We work to support educators, enhance learning environments, and provide resources to underserved communities. \n \n How You Can Help: \n Join us in this transformative journey: \n \n Donate: \n Support educational initiatives and empower future generations. \n \n Volunteer: \n Share your knowledge and mentor students. Advocate: Champion policies that prioritize education and equal access. \n \n Inspire: \n Foster a love of learning in your community and beyond. Together, we can create a world where education empowers every individual to reach their full potential."
+  },
+  {
+    "id": 3,
+    "title": "Used Clothing Drive",
+    "picture": "https://picsum.photos/200/300",
+    "category": "clothing",
+    "category_bg": "#D4ECC1",
+    "card_bg": "#EBF6E2",
+    "color": "#79C23F",
+    "price": "250.00",
+    "description": "Our Used Clothing Drive is a heartwarming endeavor that turns your pre-loved clothing into a source of hope and comfort for those in need. We believe in the power of compassion and recycling to create a better world for all. \n \n Purpose: \n The aim of our drive is twofold. First, it provides gently used clothing to individuals and families facing economic hardships, ensuring they have warm and dignified attire. Second, it promotes sustainability by extending the lifecycle of garments and reducing textile waste's environmental impact. \n \n Your Contribution Matters: \n Every shirt, pair of pants, or jacket you donate is a gesture of kindness. Your generosity directly improves lives and lessens the burden on our planet. \n \n Join Us: \n Participate in our Used Clothing Drive by simply clearing out your closet and sharing what you can spare. Be a part of this compassionate movement that not only outfits individuals but also helps protect our environment. Together, we can make a significant difference in our community and beyond."
+  },
+  {
+    "id": 4,
+    "title": "Better Food for Everyone",
+    "picture": "https://picsum.photos/200/300",
+    "category": "food",
+    "category_bg": "#FDD2C4",
+    "card_bg": "#FEEAE3",
+    "color": "#F87147",
+    "price": "450.00",
+    "description": "Our Better Food for Everyone initiative is driven by the belief that access to nutritious food is a fundamental human right. We are committed to ensuring that everyone, regardless of their circumstances, has access to safe, healthy, and sustainable food. \n \n Why it Matters: \n Good nutrition is the foundation of a healthy and prosperous life. Yet, millions of people around the world struggle with food insecurity, malnutrition, and hunger. This not only affects their physical health but also hinders their educational and economic opportunities. \n \n Our Mission: \n Our mission is clear: to provide better food options to those in need. We work to: \n Increase Access. \n Promote Sustainability \n Empower Communities \n \n How You Can Help: \n Join us in this vital mission to provide better food for everyone. \n \n Donate: Your contributions help us purchase and distribute nutritious food to those who need it most.\n Volunteer: Get involved in food distribution, community gardens, or educational initiatives. \n Raise Awareness: Share our mission and advocate for policies that address food insecurity and promote sustainable food systems. \n \n Together, we can make a significant impact in creating a world where everyone has access to better food, leading to healthier, happier lives and stronger communities."
+  },
+  {
+    "id": 5,
+    "title": "Clean Oceans Initiative",
+    "picture": "https://picsum.photos/200/300",
+    "category": "environment",
+    "category_bg": "#AEC8FF",
+    "card_bg": "#D9E5FF",
+    "color": "#0052FF",
+    "price": "180.00",
+    "description": "Our Clean Oceans Initiative is committed to preserving our oceans and marine life by combating plastic pollution and raising awareness about ocean conservation. Clean oceans are essential for the health of our planet and all its inhabitants. \n\nWhy it Matters: \nOceans cover a significant portion of our planet and are home to diverse ecosystems. Plastic pollution harms marine life, disrupts ecosystems, and threatens the food chain. \n\nOur Mission: \nWe work to remove plastic waste from oceans, educate the public about responsible consumption, and advocate for policies that protect marine environments. \n\nHow You Can Help: \nSupport our mission by participating in beach cleanups, reducing plastic usage, and spreading awareness about the importance of clean oceans. Together, we can ensure that future generations can enjoy the beauty and benefits of our oceans."
+  },
+  {
+    "id": 6,
+    "title": "Tech for Education",
+    "picture": "https://picsum.photos/200/300",
+    "category": "education",
+    "category_bg": "#FFC3C5",
+    "card_bg": "#FFE3E4",
+    "color": "#FF444A",
+    "price": "260.00",
+    "description": "Tech for Education is a program aimed at bridging the digital divide in education by providing access to technology and online resources for students and educators in underserved communities. We believe that technology can revolutionize learning and empower students for success. \n\nKey Benefits: \nAccess to technology enhances learning opportunities, increases digital literacy, and prepares students for the future workforce. It also enables educators to deliver engaging and effective lessons. \n\nOur Commitment: \nWe work to provide laptops, internet access, and tech training to schools and students who lack these resources. Our mission includes: \n- Closing the Digital Divide \n- Supporting STEM Education \n- Fostering Innovation \n\nHow You Can Help: \nSupport our mission by donating tech devices, volunteering as a tech mentor, or advocating for digital inclusion in education. Together, we can empower the next generation with the tools they need to succeed."
+  },
+  {
+    "id": 7,
+    "title": "Fashion for a Cause",
+    "picture": "https://picsum.photos/200/300",
+    "category": "clothing",
+    "category_bg": "#D4ECC1",
+    "card_bg": "#EBF6E2",
+    "color": "#79C23F",
+    "price": "120.00",
+    "description": "Fashion for a Cause is a sustainable fashion initiative that promotes eco-friendly and ethical clothing choices. We believe that fashion can be both stylish and responsible, benefiting both individuals and the planet. \n\nPurpose: \nWe encourage consumers to make mindful fashion choices by supporting eco-friendly brands, upcycling clothing, and reducing textile waste. \n\nYour Contribution Matters: \nEvery sustainable fashion choice you make reduces the environmental footprint of the fashion industry and supports fair labor practices. \n\nJoin Us: \nParticipate in our fashion events, donate gently used clothing, and choose eco-friendly fashion options. Together, we can revolutionize the fashion industry for a more sustainable future."
+  },
+  {
+    "id": 8,
+    "title": "Nutrition for Kids",
+    "picture": "https://picsum.photos/200/300",
+    "category": "food",
+    "category_bg": "#FDD2C4",
+    "card_bg": "#FEEAE3",
+    "color": "#F87147",
+    "price": "90.00",
+    "description": "Nutrition for Kids is a program dedicated to ensuring that children have access to nutritious meals, enabling them to grow, learn, and thrive. Proper nutrition is essential for a child's physical and cognitive development. \n\nWhy it Matters: \nMalnutrition affects millions of children worldwide, impairing their health and limiting their potential. Providing nutritious meals is a direct way to break the cycle of poverty and improve children's lives. \n\nOur Mission: \nWe work to provide healthy meals, nutrition education, and support to families in need. Our mission includes: \n- Ending Child Hunger \n- Promoting Healthy Eating Habits \n- Empowering Families \n\nHow You Can Help: \nSupport our mission by donating to our nutrition programs, volunteering at meal distribution events, or advocating for child nutrition policies. Together, we can ensure that every child has the nourishment they need to succeed."
+  },
+  {
+    "id": 9,
+    "title": "Clean Air Initiative",
+    "picture": "https://picsum.photos/200/300",
+    "category": "environment",
+    "category_bg": "#AEC8FF",
+    "card_bg": "#D9E5FF",
+    "color": "#0052FF",
+    "price": "190.00",
+    "description": "Our Clean Air Initiative is dedicated to improving air quality and reducing air pollution in communities around the world. Clean air is essential for our health and the well-being of the planet. \n\nWhy it Matters: \nAir pollution contributes to a range of health problems, from respiratory diseases to cardiovascular issues. It also impacts the environment, causing harm to ecosystems and contributing to climate change. \n\nOur Mission: \nWe work to reduce air pollution through advocacy, community engagement, and the promotion of clean energy sources. Our mission includes: \n- Advocating for Clean Energy \n- Raising Awareness \n- Supporting Policy Changes \n\nHow You Can Help: \nSupport our mission by reducing your own carbon footprint, advocating for clean air policies, and spreading awareness about the importance of clean air. Together, we can breathe easier and protect our planet for future generations."
+  },
+  {
+    "id": 10,
+    "title": "Empower Women in Tech",
+    "picture": "https://picsum.photos/200/300",
+    "category": "technology",
+    "category_bg": "#FFC3C5",
+    "card_bg": "#FFE3E4",
+    "color": "#FF444A",
+    "price": "280.00",
+    "description": "Empower Women in Tech is a program aimed at bridging the gender gap in the technology industry by providing resources, mentorship, and opportunities to women and girls interested in tech careers. We believe that diversity in tech drives innovation and progress. \n\nKey Benefits: \nDiverse teams bring fresh perspectives and creativity to technology, leading to more inclusive and impactful solutions. Empowering women in tech also promotes gender equality and economic empowerment. \n\nOur Commitment: \nWe provide scholarships, mentorship programs, and tech education to women and girls pursuing tech careers. Our mission includes: \n- Closing the Gender Gap \n- Fostering Inclusivity \n- Advancing Women in Leadership \n\nHow You Can Help: \nSupport our mission by mentoring aspiring women in tech, sponsoring scholarships, or advocating for gender diversity in the tech industry. Together, we can create a more inclusive and innovative tech ecosystem."
+  },
+  {
+    "id": 11,
+    "title": "Wildlife Conservation",
+    "picture": "https://picsum.photos/200/300",
+    "category": "animals",
+    "category_bg": "#FDD2C4",
+    "card_bg": "#FEEAE3",
+    "color": "#F87147",
+    "price": "220.00",
+    "description": "Wildlife Conservation is dedicated to protecting endangered species and preserving biodiversity around the world. We believe that every species has a right to exist and that our planet's health is intricately connected to the well-being of its wildlife. \n\nWhy it Matters: \nBiodiversity is essential for ecological balance, food security, and human well-being. Many species face extinction due to habitat loss, poaching, and climate change. \n\nOur Mission: \nWe work to protect wildlife and their habitats through conservation efforts, education, and advocacy. Our mission includes: \n- Protecting Endangered Species \n- Restoring Habitats \n- Raising Awareness \n\nHow You Can Help: \nSupport our mission by donating to wildlife conservation programs, participating in conservation projects, and advocating for policies that protect our planet's biodiversity. Together, we can ensure a future where all species thrive."
+  },
+  {
+    "id": 12,
+    "title": "Music for Healing",
+    "picture": "https://picsum.photos/200/300",
+    "category": "arts",
+    "category_bg": "#FFC3C5",
+    "card_bg": "#FFE3E4",
+    "color": "#FF444A",
+    "price": "70.00",
+    "description": "Music for Healing is a program that harnesses the therapeutic power of music to improve the physical and emotional well-being of individuals facing health challenges. Music has the ability to uplift spirits, reduce pain, and promote healing. \n\nKey Benefits: \nMusic therapy can reduce stress, anxiety, and depression, and it can also enhance the overall"
+  },
+  {
+    "id": 13,
+    "title": "Clean Energy for All",
+    "picture": "https://picsum.photos/200/300",
+    "category": "environment",
+    "category_bg": "#AEC8FF",
+    "card_bg": "#D9E5FF",
+    "color": "#0052FF",
+    "price": "210.00",
+    "description": "Our Clean Energy for All initiative is dedicated to transitioning to sustainable and clean energy sources to combat climate change and create a greener future. We believe that affordable and clean energy is essential for environmental protection and social progress. \n\nWhy it Matters: \nClean energy not only reduces greenhouse gas emissions but also fosters economic growth and job creation. It empowers communities and mitigates the harmful effects of traditional energy sources. \n\nOur Mission: \nWe are committed to: \n- Promoting Renewable Energy \n- Advocating for Policy Changes \n- Increasing Energy Efficiency \n\nHow You Can Help: \nSupport our mission by donating, advocating for clean energy policies, and adopting energy-efficient practices in your daily life. Together, we can make a sustainable and clean future a reality for all."
+  },
+  {
+    "id": 14,
+    "title": "Artistic Expression Workshops",
+    "picture": "https://picsum.photos/200/300",
+    "category": "arts",
+    "category_bg": "#FFC3C5",
+    "card_bg": "#FFE3E4",
+    "color": "#FF444A",
+    "price": "80.00",
+    "description": "Artistic Expression Workshops provide a creative outlet for individuals of all ages to explore their artistic talents and boost their mental well-being. Art transcends boundaries, encourages self-expression, and fosters a sense of community. \n\nKey Benefits: \nParticipating in art workshops enhances cognitive skills, relieves stress, and improves self-esteem. It also brings people together, promoting social interaction and cultural diversity. \n\nOur Commitment: \nWe are dedicated to making art accessible to everyone. Our workshops aim to: \n- Nourish Creativity \n- Promote Healing and Growth \n- Celebrate Diversity \n\nHow You Can Help: \nJoin our artistic community, attend workshops, or sponsor individuals who may not have the means to participate. Together, we can harness the power of art to transform lives."
+  },
+  {
+    "id": 15,
+    "title": "Community Garden Project",
+    "picture": "https://picsum.photos/200/300",
+    "category": "community",
+    "category_bg": "#D4ECC1",
+    "card_bg": "#EBF6E2",
+    "color": "#79C23F",
+    "price": "150.00",
+    "description": "Our Community Garden Project seeks to create green spaces where communities can come together, grow fresh produce, and foster a sense of belonging. Community gardens promote sustainability, healthy living, and community engagement. \n\nPurpose: \nThese gardens serve as hubs of urban agriculture, providing locally grown food, reducing food miles, and teaching sustainable farming practices. Additionally, they offer a place for neighbors to connect and cultivate a strong sense of community. \n\nYour Contribution Matters: \nBy supporting our Community Garden Project, you contribute to greener cities, healthier diets, and stronger communities. \n\nJoin Us: \nGet involved by volunteering, sponsoring a garden plot, or simply enjoying the fruits of our collective labor. Together, we can cultivate a better future."
+  },
+  {
+    "id": 16,
+    "title": "Animal Rescue and Care",
+    "picture": "https://picsum.photos/200/300",
+    "category": "animals",
+    "category_bg": "#FDD2C4",
+    "card_bg": "#FEEAE3",
+    "color": "#F87147",
+    "price": "300.00",
+    "description": "Our Animal Rescue and Care organization is dedicated to the well-being of animals in need. We provide shelter, medical care, and love to abandoned and abused animals, giving them a chance at a better life. \n\nWhy it Matters: \nAnimals deserve compassion and care. Neglected and mistreated animals suffer needlessly. By rescuing and rehabilitating them, we not only improve their lives but also promote a more humane society. \n\nOur Mission: \nWe rescue, rehabilitate, and rehome animals in distress. Our work includes: \n- Providing Shelter and Nutrition \n- Offering Medical Treatment \n- Advocating for Animal Rights \n\nHow You Can Help: \nSupport our mission by adopting a pet, volunteering at our shelter, or donating to ensure that animals receive the care and love they deserve. Together, we can make a significant impact on the lives of animals in need."
+  }
+]
